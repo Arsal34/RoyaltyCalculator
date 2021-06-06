@@ -8,7 +8,7 @@ Salient Features:
 Working and Usage:
 1) The application takes field measurements from the user and provides royalty for companies
 2) All kinds of companies related to oil and gas sector can use it
-3) Users are pre-defined and can login instantly
+3) Users are pre-defined and can login instantly.
 
 Installation and compilation instructions:
 1) The end user can run the application directly using index.html file
